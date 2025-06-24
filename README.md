@@ -137,7 +137,7 @@ This project aims to analyze the **decline, trends, and recovery patterns** in g
 ## 🧠 Author
 
 **Suhani Sawalka**  
-Final Year B.Tech (EXTC) + Data Science Minor  
+ B.Tech (EXTC) + Data Science Minor  
 Python • Data Analytics • Visualization • Tourism Research  
-📧 *[Add your email or LinkedIn profile here]*  
+📧 *suhanirahulsawalka3@gmail.com*  
  insights
