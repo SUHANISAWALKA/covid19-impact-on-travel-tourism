@@ -53,4 +53,37 @@ Through data analysis and visualization, we uncover the **depth of decline**, **
 ---
 
 ## 📁 Project Structure
+/data                 -> Raw and cleaned dataset files  
+/plots                -> Exported charts and graphs  
+/notebooks            -> Main Google Colab notebooks  
+/dashboard (optional) -> Power BI dashboard files  
+README.md             -> Project documentation  
 
+🚀 Future Work
+
+- Train machine learning models to predict tourism recovery trends based on policy and vaccination data  
+- Include economic indicators like unemployment in the tourism sector  
+- Incorporate sentiment analysis from travel-related tweets and reviews  
+- Build a live dashboard with real-time API integration  
+
+📂 How to Use (Google Colab)
+
+1. Open the notebook in [Google Colab](https://colab.research.google.com/)  
+2. Upload the dataset files to your Colab session  
+3. Run the cells sequentially to perform data cleaning, visualization, and analysis  
+4. Export plots using `plt.savefig()` where needed  
+5. (Optional) Import cleaned data into Power BI for dashboard creation  
+
+📣 Credits
+
+- [UNWTO – Tourism Statistics](https://www.unwto.org/statistics)  
+- [Our World in Data – COVID-19](https://ourworldindata.org/coronavirus)  
+- [World Bank Open Data](https://data.worldbank.org/)  
+- [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker)  
+
+🧠 Author
+
+**Suhani Sawalka**  
+B.Tech (EXTC) with a Minor in Data Science  
+📧 *suhanirahulsawalka3@gmail.com*  
+📊 Passionate about data analysis, travel research & visual storytelling
