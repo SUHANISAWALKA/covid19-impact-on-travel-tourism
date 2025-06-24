@@ -1,4 +1,5 @@
 # 🦠 COVID-19 Impact on Travel & Tourism: A Global Data-Driven Analysis
+
 ---
 
 ## 📌 Objective
@@ -26,17 +27,17 @@ Through data analysis and visualization, we uncover the depth of decline, recove
 - **Python**:  
   - `pandas`, `numpy` – Data cleaning and preprocessing  
   - `matplotlib`, `seaborn` – Data visualization  
-- **Power BI**  – Interactive dashboards  
+- **Power BI** – Interactive dashboards  
 - **Git & GitHub** – Version control and collaboration
 
 ---
 
 ## 📊 Datasets Used
 
-- [UNWTO – International Tourist Arrivals](https://www.unwto.org/statistics)  
-- [Our World in Data – COVID-19 Vaccination Rates](https://ourworldindata.org/coronavirus)  
-- [World Bank – Tourism’s GDP Contribution](https://data.worldbank.org/)  
-- [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker)
+- **UNWTO** – International Tourist Arrivals  
+- **Our World in Data** – COVID-19 Vaccination Rates  
+- **World Bank** – Tourism’s GDP Contribution  
+- **Oxford COVID-19 Government Response Tracker**
 
 ✅ All datasets were cleaned and merged into a unified, country-wise, multi-year format.
 
@@ -46,13 +47,14 @@ Through data analysis and visualization, we uncover the depth of decline, recove
 
 - 🌐 Global tourism fell by **74% in 2020** compared to 2019  
 - 🇹🇭 Countries heavily reliant on tourism (e.g., Thailand, Spain) faced deeper slumps  
-- 💉 Nations with early vaccine rollouts (UAE, Israel) showed faster recovery  
+- 💉 Nations with early vaccine rollouts (e.g., UAE, Israel) showed faster recovery  
 - 🔒 Extended lockdowns delayed rebounds until mid-2022  
 - 📅 Most developed countries neared pre-pandemic levels by early 2023
 
 ---
 
 ## 📁 Project Structure
+
 /data -> Raw and cleaned dataset files
 /plots -> Exported charts and graphs
 /notebooks -> Google Colab notebooks
@@ -69,15 +71,14 @@ README.md -> Project documentation
 - Use sentiment analysis from travel tweets and reviews  
 - Build a real-time dashboard with API integration
 
-
 ---
 
 ## 📣 Credits
 
-- [UNWTO – Tourism Statistics](https://www.unwto.org/statistics)  
-- [Our World in Data – COVID-19](https://ourworldindata.org/coronavirus)  
-- [World Bank Open Data](https://data.worldbank.org/)  
-- [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker)
+- UNWTO – Tourism Statistics  
+- Our World in Data – COVID-19  
+- World Bank Open Data  
+- Oxford COVID-19 Government Response Tracker
 
 ---
 
@@ -87,7 +88,5 @@ README.md -> Project documentation
 🎓 B.Tech (EXTC) with a Minor in Data Science  
 📧 suhanirahulsawalka3@gmail.com  
 📊 Passionate about data analysis, travel research & visual storytelling  
-🔗 [LinkedIn](https://www.linkedin.com/in/suhanisawalka)   
-
-
+🔗 [LinkedIn](linkedin.com/in/suhani-sawalka-07336122b) 
 
